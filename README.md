@@ -66,10 +66,10 @@ docs/
 Todo el contenido de este repositorio (placas, Gerber, huellas, firmware y documentación) está bajo la licencia
 [Creative Commons Atribución-NoComercial-CompartirIgual 4.0 Internacional (CC BY-NC-SA 4.0)](LICENSE).
 
-- **Puedes** usarlo, estudiarlo, fabricar placas para ti, para talleres o para enseñar, y modificarlo.
+- **Puedes** usarlo, estudiarlo, modificarlo y fabricar placas para ti o para enseñar sin fines de lucro.
 - **Debes** dar crédito a GC Lab Chile y enlazar este repositorio: `https://github.com/GC-Lab-Gonzalo/Experimental_Synth`.
 - **No puedes** venderlo ni usarlo con fines comerciales (por ejemplo, vender placas, kits o instrumentos basados
-  en este diseño) sin permiso escrito de GC Lab Chile.
+  en este diseño, o cobrar talleres que lo usen) sin permiso escrito de GC Lab Chile.
 - Si lo modificas y lo compartes, tiene que ser con esta misma licencia.
 
 ¿Te interesa un uso comercial? Escríbenos desde [gclabchile.com](https://www.gclabchile.com).
