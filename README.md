@@ -61,10 +61,6 @@ docs/
   `firmware/prueba_placa1/` todavía usa `Adafruit_NeoPixel`. Otra opción es usar el núcleo 3.3.x.
 - Compila con «USB CDC On Boot: Enabled» y programa por el USB nativo del ESP32-S3.
 
----
-
-Hecho en Chile por [GC Lab Chile](https://www.gclabchile.com): ingeniería electrónica, IA y artes creativas.
-
 ## Licencia
 
 - **Hardware y documentación** (`hardware/`, `docs/`): [CERN-OHL-S v2](hardware/LICENSE), licencia de hardware
@@ -74,3 +70,7 @@ Hecho en Chile por [GC Lab Chile](https://www.gclabchile.com): ingeniería elect
 - **Firmware** (`firmware/`): [MIT](firmware/LICENSE).
 
 Copyright © 2026 GC Lab Chile.
+
+---
+
+Hecho en Chile por [GC Lab Chile](https://www.gclabchile.com): ingeniería electrónica, IA y artes creativas.
