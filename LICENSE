@@ -1,0 +1,14 @@
+Experimental Synth — Sintetizador de Madera
+Copyright (c) 2026 GC Lab Chile
+
+Este repositorio usa dos licencias:
+
+- hardware/ y docs/ (placas KiCad, Gerber, huellas, renders, pinout y diagramas):
+  CERN Open Hardware Licence Version 2 - Strongly Reciprocal (CERN-OHL-S-2.0).
+  Texto completo en hardware/LICENSE y docs/LICENSE.
+  Source location: https://github.com/GC-Lab-Gonzalo/Experimental_Synth
+
+- firmware/ (sketches de Arduino para ESP32-S3):
+  MIT License. Texto completo en firmware/LICENSE.
+
+SPDX-License-Identifier: CERN-OHL-S-2.0 AND MIT

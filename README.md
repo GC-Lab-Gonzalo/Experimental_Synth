@@ -64,3 +64,13 @@ docs/
 ---
 
 Hecho en Chile por [GC Lab Chile](https://www.gclabchile.com): ingeniería electrónica, IA y artes creativas.
+
+## Licencia
+
+- **Hardware y documentación** (`hardware/`, `docs/`): [CERN-OHL-S v2](hardware/LICENSE), licencia de hardware
+  abierto fuertemente recíproca. Puedes fabricar, modificar y vender placas basadas en este diseño, siempre que
+  compartas tus cambios bajo la misma licencia e indiques la fuente:
+  `https://github.com/GC-Lab-Gonzalo/Experimental_Synth`.
+- **Firmware** (`firmware/`): [MIT](firmware/LICENSE).
+
+Copyright © 2026 GC Lab Chile.
