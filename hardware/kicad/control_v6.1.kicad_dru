@@ -1,0 +1,8 @@
+(version 1)
+# Los WS2812B 6028 de montaje inverso llevan los pads al borde de su ventana: es parte del diseño
+(rule "pads LED junto a su ventana"
+  (constraint edge_clearance (min 0mm))
+  (condition "A.memberOfFootprint('D?') || A.memberOfFootprint('D??')"))
+# Los pads de GND también llegan por pista; basta un radio térmico
+(rule "termicos GND"
+  (constraint min_resolved_spokes 1))
